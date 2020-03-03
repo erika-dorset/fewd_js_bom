@@ -45,7 +45,7 @@ p + h2 {
 
 /* black bar across the right hand side of the page */
 
-#info {
+#info{
   background-color: #1e1b1e;
   color: #fff;
   width: 200px;
@@ -55,6 +55,7 @@ p + h2 {
   position: absolute;
   top: 0;
   right: 15%;}
+  
 
 /* details in the black bar */
 
